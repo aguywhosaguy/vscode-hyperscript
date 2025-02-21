@@ -42,7 +42,8 @@
             {
                 "injectTo": [
                     "text.html",
-                    "meta.embedded.block.html"
+                    "meta.embedded.block.html",
+                    "block.html-template.templ"
                 ],
                 "embeddedLanguages": {
                     "meta.embedded.line._hyperscript": "_hyperscript"
@@ -53,7 +54,8 @@
             {
                 "injectTo": [
                     "text.html",
-                    "meta.embedded.block.html"
+                    "meta.embedded.block.html",
+                    "block.html-template.templ"
                 ],
                 "embeddedLanguages": {
                     "meta.embedded.block._hyperscript": "_hyperscript"
